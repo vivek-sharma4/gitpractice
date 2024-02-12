@@ -1,6 +1,5 @@
-def addtion(a,b,c):
-    print(a+b+c)
-    return a+b+c
+def addtion(a,b):
+    return a+b
 
 def multiplication(a,b):
     return a*b
